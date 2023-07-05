@@ -2,9 +2,9 @@
 
 Terms of Service This agreement was last updated on 11/13/2022.
 
-These Terms of Service (“Terms”) control the end-user (“you”, “your”) access and behavior on NodeBot (“service”)’s website (nodebot.xyz and related domains) and Discord bot. By using our services, you agree to be bound by our Terms and Privacy Policy. If you do not agree to these terms, please do not use the services.
+These Terms of Service (“Terms”) control the end-user (“you”, “your”) access and behavior on EspCustoms (“service”)’s website (espcustoms.xyz and related domains) and Discord bot. By using our services, you agree to be bound by our Terms and Privacy Policy. If you do not agree to these terms, please do not use the services.
 
-I. Warranty and Copyright Streamcord is a copyright © 2017–2021 of NodeBot, LLC. (“developer”, “author”).
+I. Warranty and Copyright Streamcord is a copyright © 2017–2021 of EspCustoms, LLC. (“developer”, “author”).
 
 All images used in the service are copyrights of their respective owners.
 
